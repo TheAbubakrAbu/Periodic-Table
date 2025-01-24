@@ -41,7 +41,7 @@ This project is part of a broader effort to create accessible and engaging tools
 ## Credits and Acknowledgments
 
 - **Audio Credit:** The button-click sound effect (*ButtonClick1.mp3*) is sourced from [ZAPSPLAT](https://www.zapsplat.com/sound-effect-category/button-clicks/).
-- **Periodic Table Data:** Sourced and structured from code.org.
+- **Periodic Table Data:** Sourced and structured from [Code.org](https://studio.code.org/docs/ide/applab/expressions/getColumn).
 
 ## License
 
