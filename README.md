@@ -2,6 +2,8 @@
 
 The **Periodic Table Web App** is a web-based application built with JavaScript on Code.org. This project was developed as part of my **AP Computer Science Project** during my **sophomore (10th grade) year in Spring 2022**. It provides an engaging and educational tool for exploring and learning about the periodic table of elements.
 
+**[Try the Periodic Table Web App on Code.org](https://studio.code.org/projects/applab/n4gY-ijCWHme3Gd-qkeYFzcloQkXAf257XCrDwGSxRg)**
+
 ## About the Project
 
 The app is designed to make learning about the periodic table interactive and accessible. By offering users the ability to explore element properties, search by atomic number, name, or symbol, and navigate through the periodic table in an intuitive interface, the project helps students and enthusiasts deepen their understanding of chemistry.
